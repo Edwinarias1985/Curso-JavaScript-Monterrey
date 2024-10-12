@@ -24,3 +24,4 @@ var mi_variable = 5; //esta línea es correcta, los "_" y "-" son simbolos váli
 var a = 5;
 var b = a; // Después de correr esta línea de código, JavaScript tendrá declaradas las cariables a y b con el valos numérico 5.
 // Tema 2 variables y funciones
+
