@@ -3,6 +3,8 @@
 alert("Bienvenido al nuevo lenguaje super fácil")
 // Tema 1 Scripts
 
+// Así es el comentario con JavaScript
+
 // Tema 2 Variables y funciones
 Literales
 12.57 // número decimal
